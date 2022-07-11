@@ -1,0 +1,4 @@
+django
+djangorestframework
+drf_yasg
+psycopg2-binary>=2.8
